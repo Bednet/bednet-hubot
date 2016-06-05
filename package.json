@@ -1,13 +1,13 @@
 {
-  "name": "Bednet Hubot",
+  "name": "bednet-hubot",
   "version": "0.0.0",
   "private": true,
   "author": "Bednet <operations@bednet.be>",
   "description": "A friendly killer robot",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-deploy": "^0.13.25",
     "hubot-diagnostics": "0.0.1",
-    "hubot-github-deployments": "^1.0.0",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
